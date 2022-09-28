@@ -25,7 +25,7 @@ export const Contact = () => {
     (error) => {
       alert("An error occurred, Please try again later.", error.text);
     })
-    setButtonText("Send");
+    setButtonText("Send")
   };
 
   return (
