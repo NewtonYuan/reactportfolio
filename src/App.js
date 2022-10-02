@@ -7,8 +7,12 @@ import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
+import React, { useEffect } from 'react'
 
 function App() {
+  useEffect(() => {
+    document.title = "Newton Yuan"
+  }, [])
   return (
     <div className="App">
       <NavBar />

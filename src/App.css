@@ -300,7 +300,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 8px 10px;
   background: linear-gradient(90.21deg, rgba(83, 139, 212, 0.7) -5.91%, rgba(32, 18, 92, 0.7) 111.58%);
   border: 1px solid rgba(255, 255, 255, 0.5);
-  font-size: 20px;
+  font-size: 35px;
   margin-bottom: 16px;
   display: inline-block;
 }
